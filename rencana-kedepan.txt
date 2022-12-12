@@ -3,4 +3,5 @@ RENCANA KEDEPAN
 -CSS
 -JAVASCRIPT
  *Framework Javascript
--STRUKTUR DATA DASAR
+  ^ Angular
+  ^ React
