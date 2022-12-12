@@ -4,5 +4,6 @@ RENCANA KEDEPAN
 -JAVASCRIPT
  *Framework Javascript
   ^ View
+  ^ React
 -STRUKTUR DATA DASAR
 -Python
