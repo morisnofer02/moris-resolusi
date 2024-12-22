@@ -1,9 +1,10 @@
 RENCANA KEDEPAN
--PHP
--CSS
--JAVASCRIPT
- *Framework Javascript
-  ^ View
-  ^ React
--STRUKTUR DATA DASAR
--Python
+- Tags HTML Advance
+- CSS Advance
+- Javascript
+  DOM
+  BOM
+- Javascript library and framework
+  Node js
+  React js
+  Next js
